@@ -1,10 +1,17 @@
 # carbontaxtion
 
-Libraries required
+Libraries required 
+
   -googlemaps
+  
   -urllib
+  
   -matplotlib
-  -numpy as np
+  
+  -numpy
+  
   -skimage
+  
   -scipy
+  
   -sklearn
